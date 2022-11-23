@@ -15,7 +15,6 @@
 <h1>Example of ruby tag</h1>  
 <p>East Asian Langugae Annotation</p>  
 <ruby>  
-     大哥<rt>Big Brother</rt>  
 </ruby>  
   
 <p>Noraml Annotaion Representation of Expiry date</p>  
